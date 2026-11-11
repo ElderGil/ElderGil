@@ -16,14 +16,14 @@ I lead engineering teams and still write code. Right now I'm building tooling fo
 | [RunForrestRun](https://github.com/ElderGil/RunForrestRun) | Two AI coaches (running and strength) that adjust my training daily from Strava and Apple Health data, with an injury brake. |
 | [Copa-2026-AI-Forecast](https://github.com/ElderGil/Copa-2026-AI-Forecast) | Forecasting the FIFA World Cup 2026 champion with an official FIFA ETL and a recency-first model. |
 
-## MBA in Software Engineering with AI (FullCycle)
-
-Coursework I kept as real engineering work, in Portuguese:
+## Case studies: AI architecture and delivery
 
 - [desafio-arquitetura-era-ia-1](https://github.com/ElderGil/desafio-arquitetura-era-ia-1): from provider-coupled AI features to a LiteLLM AI Gateway with fallback, ADRs and characterization tests
 - [assistente-residencial-aurora](https://github.com/ElderGil/assistente-residencial-aurora): Google ADK condo assistant where the model steers the conversation and code enforces the rules. (Unrelated to any enterprise program of the same name.)
 - [skill-auditoria-refatoracao-mvc](https://github.com/ElderGil/skill-auditoria-refatoracao-mvc): a Claude Code skill that audits and refactors legacy apps to MVC, then proves nothing broke
 - [design-docs-webhooks-pedidos](https://github.com/ElderGil/design-docs-webhooks-pedidos): traceable PRD, RFC, FDD and ADRs from a meeting transcript and existing code
+
+Built during my MBA in Software Engineering with AI (FullCycle). Code and docs in Portuguese.
 
 ## Contact
 
