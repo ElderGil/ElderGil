@@ -20,6 +20,7 @@ I lead engineering teams and still write code. Right now I'm building tooling fo
 
 - [desafio-arquitetura-era-ia-1](https://github.com/ElderGil/desafio-arquitetura-era-ia-1): from provider-coupled AI features to a LiteLLM AI Gateway with fallback, ADRs and characterization tests
 - [assistente-residencial-aurora](https://github.com/ElderGil/assistente-residencial-aurora): Google ADK condo assistant where the model steers the conversation and code enforces the rules. (Unrelated to any enterprise program of the same name.)
+- [desafio-a2a-com-mcp](https://github.com/ElderGil/desafio-a2a-com-mcp): an A2A agent that consumes an MCP server from the inside. MCP's `input_required` becomes a paused A2A Task, with sealed state that survives a server restart
 - [skill-auditoria-refatoracao-mvc](https://github.com/ElderGil/skill-auditoria-refatoracao-mvc): a Claude Code skill that audits and refactors legacy apps to MVC, then proves nothing broke
 - [design-docs-webhooks-pedidos](https://github.com/ElderGil/design-docs-webhooks-pedidos): traceable PRD, RFC, FDD and ADRs from a meeting transcript and existing code
 
